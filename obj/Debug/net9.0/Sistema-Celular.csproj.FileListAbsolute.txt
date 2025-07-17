@@ -1,0 +1,15 @@
+C:\Users\glarl\OneDrive\Desktop\Projetos\Sistema-Celular\bin\Debug\net9.0\Sistema-Celular.exe
+C:\Users\glarl\OneDrive\Desktop\Projetos\Sistema-Celular\bin\Debug\net9.0\Sistema-Celular.deps.json
+C:\Users\glarl\OneDrive\Desktop\Projetos\Sistema-Celular\bin\Debug\net9.0\Sistema-Celular.runtimeconfig.json
+C:\Users\glarl\OneDrive\Desktop\Projetos\Sistema-Celular\bin\Debug\net9.0\Sistema-Celular.dll
+C:\Users\glarl\OneDrive\Desktop\Projetos\Sistema-Celular\bin\Debug\net9.0\Sistema-Celular.pdb
+C:\Users\glarl\OneDrive\Desktop\Projetos\Sistema-Celular\obj\Debug\net9.0\Sistema-Celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glarl\OneDrive\Desktop\Projetos\Sistema-Celular\obj\Debug\net9.0\Sistema-Celular.AssemblyInfoInputs.cache
+C:\Users\glarl\OneDrive\Desktop\Projetos\Sistema-Celular\obj\Debug\net9.0\Sistema-Celular.AssemblyInfo.cs
+C:\Users\glarl\OneDrive\Desktop\Projetos\Sistema-Celular\obj\Debug\net9.0\Sistema-Celular.csproj.CoreCompileInputs.cache
+C:\Users\glarl\OneDrive\Desktop\Projetos\Sistema-Celular\obj\Debug\net9.0\Sistema-Celular.sourcelink.json
+C:\Users\glarl\OneDrive\Desktop\Projetos\Sistema-Celular\obj\Debug\net9.0\Sistema-Celular.dll
+C:\Users\glarl\OneDrive\Desktop\Projetos\Sistema-Celular\obj\Debug\net9.0\refint\Sistema-Celular.dll
+C:\Users\glarl\OneDrive\Desktop\Projetos\Sistema-Celular\obj\Debug\net9.0\Sistema-Celular.pdb
+C:\Users\glarl\OneDrive\Desktop\Projetos\Sistema-Celular\obj\Debug\net9.0\Sistema-Celular.genruntimeconfig.cache
+C:\Users\glarl\OneDrive\Desktop\Projetos\Sistema-Celular\obj\Debug\net9.0\ref\Sistema-Celular.dll
